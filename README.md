@@ -1,10 +1,8 @@
-# pyfun
+# pyfun - Fun with Python
 
-## Fun with Python
+## Hackerrank Problems
 
-### Hackerrank Problems
-
-#### Basic Data Type problems
+### Basic Data Type problems
 
 | Problem  | Description |
 | ------------- | ------------- |
