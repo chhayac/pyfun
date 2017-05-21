@@ -12,5 +12,8 @@
 | [find_percentage.py](/hackerrank/basic_problems/find_percentage.py)   | Find the average percentage marks obtained by a given student, correct to two decimal places |
 | [lists.py](/hackerrank/basic_problems/lists.py)   | Performing different operations on list elements |
 
+### String problems
 
-
+| Problem  | Description |
+| ------------- | ------------- |
+| [split_and_join.py](split_and_join.py)   | Split the string on a " " (space) delimiter and join using a - hyphen. |
