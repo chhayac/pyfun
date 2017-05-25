@@ -20,3 +20,8 @@
 | [mutation.py](/hackerrank/strings/mutation.py)   | Program to replace the character at a given index in a string and print the modified string |
 | [find_a_string.py](/hackerrank/strings/find_a_string.py)   | Print the number of times a substring occurs in the given string |
 | [minion_game.py](/hackerrank/strings/minion_game.py)   | Find the winner of minion game, print its name and score separated by a space. |
+
+
+## Algorithm problems
+| Problem  | Description |
+| ------------- | ------------- |
