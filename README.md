@@ -25,3 +25,4 @@
 ## Algorithm problems
 | Problem  | Description |
 | ------------- | ------------- |
+| [peak_find.py](/peak_find.py)   | Find a peak element in an array using divide and conquer approach |
