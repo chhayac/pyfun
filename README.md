@@ -26,3 +26,4 @@
 | Problem  | Description |
 | ------------- | ------------- |
 | [peak_find.py](Algorithms/peak_find.py)   | Find a peak element in an array using divide and conquer approach |
+| [peak_finding_2d.py](Algorithms/peak_finding_2d.py)   | Find any peak element in 2-D array using divide and conquer approach |
