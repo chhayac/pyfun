@@ -1,5 +1,5 @@
 # Program to find peak element in 2-D array using divide and conquer approach
-# Complexity is O(mlogn)
+# Complexity is O(nlog(m)) where n is the number of rows and m is the number of columns
 # Example: 
 # Input: 
 # 43      90      24      76      34
