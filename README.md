@@ -6,11 +6,11 @@
 
 | Problem  | Description |
 | ------------- | ------------- |
-| [find_second_largest.py](/hackerrank/basic_problems/find_second_largest.py)   | Find second largest number from a list of N numbers. |
-| [list_comprehension.py](/hackerrank/basic_problems/list_comprehension.py)   | Print a list of all possible coordinates given by (i,j,k) on a 3D grid.  |
+| [find_second_largest.py](/hackerrank/basic_problems/find_second_largest.py)   | Find second largest number from a list of N numbers |
+| [list_comprehension.py](/hackerrank/basic_problems/list_comprehension.py)   | Print a list of all possible coordinates given by (i,j,k) on a 3D grid  |
 | [nested_list.py](/hackerrank/basic_problems/nested_list.py)   | Print the name(s) of any student(s) having the second lowest grade |
-| [find_percentage.py](/hackerrank/basic_problems/find_percentage.py)   | Find the average percentage marks obtained by a given student, correct to two decimal places. |
-| [lists.py](/hackerrank/basic_problems/lists.py)   | Performing different operations on list elements. |
+| [find_percentage.py](/hackerrank/basic_problems/find_percentage.py)   | Find the average percentage marks obtained by a given student, correct to two decimal places |
+| [lists.py](/hackerrank/basic_problems/lists.py)   | Performing different operations on list elements |
 
 ### String problems
 
@@ -19,7 +19,8 @@
 | [split_and_join.py](/hackerrank/strings/split_and_join.py)   | Split the string on a " " (space) delimiter and join using a - hyphen |
 | [mutation.py](/hackerrank/strings/mutation.py)   | Program to replace the character at a given index in a string and print the modified string |
 | [find_a_string.py](/hackerrank/strings/find_a_string.py)   | Print the number of times a substring occurs in the given string |
-| [minion_game.py](/hackerrank/strings/minion_game.py)   | Find the winner of minion game, print its name and score separated by a space. |
+| [minion_game.py](/hackerrank/strings/minion_game.py)   | Find the winner of minion game, print its name and score separated by a space |
+| [merge_the_tools.py](/hackerrank/strings/merge_the_tools.py)   | Program to split a string by removing any subsequent occurrences non-distinct characters ([Hackerrank - Merge the tools](https://www.hackerrank.com/challenges/merge-the-tools)) |
 
 
 ## Algorithm problems
