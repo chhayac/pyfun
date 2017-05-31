@@ -22,6 +22,12 @@
 | [minion_game.py](/hackerrank/strings/minion_game.py)   | Find the winner of minion game, print its name and score separated by a space |
 | [merge_the_tools.py](/hackerrank/strings/merge_the_tools.py)   | Program to split a string by removing any subsequent occurrences non-distinct characters ([Hackerrank - Merge the tools](https://www.hackerrank.com/challenges/merge-the-tools)) |
 
+### Set problems
+
+| Problem  | Description |
+| ------------- | ------------- |
+| [symmetric_difference.py](/hackerrank/sets/symmetric_difference.py)   | Program to compute symmetric difference of two sets ([Hackerrank - Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference)) |
+
 
 ## Algorithm problems
 | Problem  | Description |
