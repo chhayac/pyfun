@@ -4,3 +4,4 @@
 | [mutation.py](mutation.py)   | Program to change the character at a given index in a string and then print the modified string |
 | [find_a_string.py](find_a_string.py)   | Print the number of times a substring occurs in the given string |
 | [minion_game.py](minion_game.py)   | Find the winner of minion game, print its name and score separated by a space. |
+| [merge_the_tools.py](/hackerrank/strings/merge_the_tools.py)   | Program to split a string by removing any subsequent occurrences non-distinct characters ([Hackerrank - Merge the tools](https://www.hackerrank.com/challenges/merge-the-tools)) |
