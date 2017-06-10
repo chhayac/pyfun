@@ -36,5 +36,5 @@
 | [peak_find.py](Algorithms/peak_find.py)   | Find a peak element in an array using divide and conquer approach |
 | [peak_finding_2d.py](Algorithms/peak_finding_2d.py)   | Find any peak element in 2-D array using divide and conquer approach |
 | [doc_distance_opt.py](Algorithms/doc_distance_opt.py)   | Program to implement document distance problem which is the problem of computing the distance between two given text documents |
-| [insertion_sort.py](Algorithms/insertion_sort.py)   | Program to implement insertion sort  |
+| [insertion_sort.py](Algorithms/insertion_sort.py)   | Program to implement insertion sort algorithm.  |
 
